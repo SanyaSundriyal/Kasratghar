@@ -1,22 +1,56 @@
-# gym-app
-mobile-friendly gym app
+## 🏋️ Gym App – KasratGhar
 
-- Session presets (Push / Pull / Legs / Power / Custom)
+🔗 **Live Demo:** [https://kasratghar.netlify.app/](https://kasratghar.netlify.app/)
 
-- Tap-to-complete sets on each exercise card (image acts as a big button)
+A **mobile-first, responsive gym workout tracker** designed for fast, distraction-free training. Built with a focus on **thumb-friendly controls**, real-time workout tracking, and offline persistence.
 
-- Auto rest timer (reads each exercise’s ideal rest; start/stop/+30s; progress bar; beep + vibration)
+### 🚀 Features
 
-- Live clock + total workout time
+* **Session Presets**
+  Push / Pull / Legs / Power / Custom workout templates
 
-- Weights, notes & per-exercise volume calc
+* **Tap-to-Complete Sets**
+  Each exercise card image acts as a large tap button for quick set completion
 
-- LocalStorage persistence per day/session
+* **Smart Rest Timer**
 
-- Export/Import JSON (backup/share progress)
+  * Automatically uses ideal rest per exercise
+  * Start / Stop / +30s controls
+  * Progress bar indicator
+  * Beep sound + vibration on completion
 
-- Workout summary dialog (duration, sets completed, volume)
+* **Live Tracking**
 
-- Light/Dark theme toggle
+  * Real-time clock
+  * Total workout duration counter
 
-- Fully responsive with large, thumb-friendly controls
+* **Workout Logging**
+
+  * Weights & notes per exercise
+  * Automatic per-exercise volume calculation
+
+* **Persistent Storage**
+
+  * Saves workouts using **LocalStorage**
+  * Data is preserved per day and session
+
+* **Export / Import**
+
+  * JSON export for backup or sharing
+  * Import workouts across devices
+
+* **Workout Summary**
+
+  * Session duration
+  * Total sets completed
+  * Total training volume
+
+* **UI & UX**
+
+  * Light / Dark theme toggle
+  * Fully responsive layout
+  * Large, mobile-friendly buttons optimized for gym use
+
+### 🎯 Goal
+
+Built to be **fast, offline-friendly, and practical inside the gym** — no clutter, no unnecessary steps, just train and track.
