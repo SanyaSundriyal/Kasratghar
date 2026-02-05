@@ -1,7 +1,5 @@
 ## 🏋️ Gym App – KasratGhar
 
-🔗 **Live Demo:** [https://kasratghar.netlify.app/](https://kasratghar.netlify.app/)
-
 A **mobile-first, responsive gym workout tracker** designed for fast, distraction-free training. Built with a focus on **thumb-friendly controls**, real-time workout tracking, and offline persistence.
 
 ### 🚀 Features
